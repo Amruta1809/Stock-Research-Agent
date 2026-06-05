@@ -1,0 +1,10 @@
+ddgs
+langchain
+langchain-openai
+langgraph
+pandas
+plotly
+python-dotenv
+pytest
+streamlit
+yfinance
